@@ -10,6 +10,12 @@
 2. **Numpy**
 
 
+# Usage
+```
+python3 rnn_lm.py
+```
+
+
 # Result
 
 *The following image shows the working of the code. This image shows the running of code on a small data of 1000 words from the main dataset. We can see that the loss decreases with each epoch. This proves that the code works fine and given the time and compute power, it can generate the text.*
